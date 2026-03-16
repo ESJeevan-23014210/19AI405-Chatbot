@@ -26,8 +26,5 @@ Python 3.12.1
 
 9. End the program.
 
-
-## OUTPUT :
-
 ## RESULT
 Thus the chatbot is created and executed successfully.
